@@ -1,0 +1,5 @@
+StudentID,Name,Coursework,Exam
+1001,Alex Smith,65,72
+1002,Sam Jones,54,61
+1003,Emily Brown,82,76
+1004,John Smith,45,55
